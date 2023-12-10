@@ -1,0 +1,84 @@
+.manager-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.manager-text {
+  top: 40px;
+  left: 101px;
+  position: absolute;
+  font-size: 40px;
+  font-family: "Merriweather";
+  font-weight: bold;
+  text-decoration: underline;
+}
+.manager-text01 {
+  top: 180px;
+  left: 640px;
+  position: absolute;
+  font-size: 25px;
+  font-family: "Merriweather";
+}
+.manager-text08 {
+  top: 641px;
+  left: 638px;
+  position: absolute;
+  font-size: 25px;
+  font-style: normal;
+  font-family: "Merriweather";
+  font-weight: 400;
+}
+.manager-text11 {
+  top: 92px;
+  left: 87px;
+  position: absolute;
+  font-size: 28px;
+  font-family: "Merriweather";
+}
+.manager-navlink {
+  display: contents;
+}
+.manager-text12 {
+  top: 69px;
+  right: 88px;
+  position: absolute;
+  font-family: "Merriweather";
+  text-decoration: none;
+}
+.manager-image {
+  top: 128px;
+  left: 63px;
+  width: 495px;
+  height: 435px;
+  position: absolute;
+  object-fit: cover;
+}
+.manager-navlink1 {
+  top: 576px;
+  left: 137px;
+  position: absolute;
+  text-decoration: none;
+}
+.manager-text14 {
+  text-decoration: underline;
+}
+.manager-text15 {
+  top: 580px;
+  left: 639px;
+  position: absolute;
+  font-size: 25px;
+  font-family: "Merriweather";
+  font-weight: 700;
+  text-decoration: underline;
+}
+.manager-text16 {
+  top: 622px;
+  left: 638px;
+  position: absolute;
+  font-size: 25px;
+  font-family: "Merriweather";
+}

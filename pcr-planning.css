@@ -1,0 +1,25 @@
+.pcr-planning-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.pcr-planning-image {
+  width: 657px;
+  height: 1032px;
+  object-fit: cover;
+}
+.pcr-planning-navlink {
+  display: contents;
+}
+.pcr-planning-text {
+  top: 40px;
+  color: #000000;
+  right: 64px;
+  position: absolute;
+  font-family: "Merriweather";
+  text-decoration: none;
+}

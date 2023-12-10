@@ -1,0 +1,69 @@
+.actor-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.actor-text {
+  top: 40px;
+  left: 69px;
+  position: absolute;
+  font-size: 40px;
+  font-family: "Merriweather";
+  font-weight: bold;
+  text-decoration: underline;
+}
+.actor-text1 {
+  top: 90px;
+  left: 65px;
+  position: absolute;
+  font-size: 28px;
+  font-family: "Merriweather";
+}
+.actor-navlink {
+  display: contents;
+}
+.actor-text2 {
+  top: 69px;
+  right: 88px;
+  position: absolute;
+  font-family: "Merriweather";
+  text-decoration: none;
+}
+.actor-link {
+  display: contents;
+}
+.actor-text3 {
+  top: 465px;
+  left: 639px;
+  position: absolute;
+  font-family: "Merriweather";
+  text-decoration: underline;
+}
+.actor-image {
+  top: 143px;
+  left: 108px;
+  width: 371px;
+  height: 320px;
+  position: absolute;
+  object-fit: cover;
+}
+.actor-navlink1 {
+  top: 479px;
+  left: 110px;
+  position: absolute;
+  text-decoration: none;
+}
+.actor-text5 {
+  text-decoration: underline;
+}
+.actor-text6 {
+  top: 229px;
+  left: 640px;
+  position: absolute;
+  font-size: 25px;
+  font-family: "Merriweather";
+}

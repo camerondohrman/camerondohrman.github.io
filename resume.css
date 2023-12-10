@@ -1,0 +1,24 @@
+.resume-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.resume-image {
+  width: 698px;
+  height: 1025px;
+  object-fit: cover;
+}
+.resume-navlink {
+  display: contents;
+}
+.resume-text {
+  top: 26px;
+  right: 48px;
+  position: absolute;
+  font-family: "Merriweather";
+  text-decoration: none;
+}
